@@ -1,4 +1,4 @@
-# Project Title
+# Calorie Tracker
 
 A super simple Calorie tracker built using only pure Javascript
 
